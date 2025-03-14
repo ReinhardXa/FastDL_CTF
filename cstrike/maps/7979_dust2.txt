@@ -1,0 +1,16 @@
+Ywe_Dust2 - Bomb/Defuse
+Mapping by Ywe.
+OverView picture by 828 and Ywe.
+
+
+Counter-Terrorists: Prevent Terrorists
+from bombing places.
+Team members must defuse any bombs 
+that place.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the place. 
+
+Other Notes: There are 2 places in the mission.
+
+(Press FIRE to continue)
