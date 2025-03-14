@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	2.75
+	ORIGIN	495.25 	501.63	224
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_roaches.bmp"
+	HEIGHT	0
+}

@@ -1,0 +1,15 @@
+// overview description file for de_construct_station.bsp
+// Overview: Zoom 2.35, Map Origin (1308.60, -623.09, 1504.00), Z Min 3073.00, Z Max -65.00, Rotated 0
+
+global 
+{
+	ZOOM	2.35
+	ORIGIN	1308.60	-623.09	-65.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_construct_station.bmp"
+	HEIGHT	-65
+}
